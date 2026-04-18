@@ -1,0 +1,11 @@
+👤 YOU (User)
+    ↓
+🖥️ Browser (Chrome / Firefox)
+    ↓
+📄 HTML → Shows the page layout
+🎨 CSS  → Makes it look beautiful
+⚙️ JS   → Handles all the logic
+    ↓
+💾 LocalStorage (built into browser)
+    → Saves your tasks like a mini-database
+    → No internet needed!
